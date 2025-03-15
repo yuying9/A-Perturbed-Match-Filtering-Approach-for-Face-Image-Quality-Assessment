@@ -3,7 +3,7 @@
 ## Statement ##
 This is the code for "A Perturbed Match Filtering Approach for Face Image Quality Assessment".
 
-This code is a non-commercial improvement based on CR-FIQA (https://github.com/fdbtrs/CR-FIQA) (Copyright © 2021 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt), licensed under CC BY-NC 4.0. Modifications © [yuying/2024].  
+This code is a non-commercial modification based on CR-FIQA (https://github.com/fdbtrs/CR-FIQA) (Copyright © 2021 Fraunhofer Institute for Computer Graphics Research IGD Darmstadt), licensed under CC BY-NC 4.0. Modifications © [yuying/2024].  
 
 
 
